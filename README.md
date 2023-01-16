@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm buğra</h1>
 <h3 align="center">WELCOME MY GİTHUB PAGE</h3>
 
+- 🔭 I’m currently working on [bugra-s led projects](https://github.com/bugra-s/bugra-s-led-projects)
+
 - 🌱 I’m currently learning **Java learning**
 
 - 📫 How to reach me **bugrasahin255228@gmail.com**
@@ -9,6 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/bugra.sahin52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bugra.sahin52" height="30" width="40" /></a>
+<a href="https://discord.gg/bugra-s#9654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bugra-s#9654" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
