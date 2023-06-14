@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [bugra-s led projects](https://github.com/bugra-s/bugra-s-led-projects)
 
-- 🌱 I’m currently learning **Java learning**
+- 🌱 I’m currently learning **DeepFace**
 
 - 📫 How to reach me **bugrasahin255228@gmail.com**
 
